@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col">
       <header className="bg-black text-white text-center p-4 text-xl font-bold">
-        DeepSeek AI Chat
+        AI-Powered Chat Application
       </header>
 
       <main className="flex-1 p-4 overflow-y-auto">
