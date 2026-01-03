@@ -1,4 +1,17 @@
+# AI-Powered Chat Application 🚀
+
+🔗 Live Demo  
+https://ai-powered-chat-application-zh3ndcvkz.vercel.app
+A production-ready AI chat application built with Next.js and Groq LLM, supporting real-time conversational responses with secure API handling and modern UI.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Tech Stack
+- Next.js 14 (App Router)
+- React
+- JavaScript (ES6+)
+- Groq LLM API
+- Vercel (Deployment)
 
 ## Getting Started
 
